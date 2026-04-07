@@ -1,0 +1,61 @@
+# 🗄️ SQL Assignments Project
+
+This repository contains two SQL assignments that demonstrate fundamental and advanced database concepts using MySQL.
+
+---
+
+## 📌 Project Overview
+
+The purpose of these assignments is to understand how databases are created, managed, and queried in real-world scenarios. It includes table creation, data manipulation, and advanced query techniques.
+
+---
+
+## 📂 Assignments Details
+
+### 🔹 Assignment 1: Database Creation & Data Management
+- Created tables such as Employees, Departments, and Locations
+- Inserted and managed data records
+- Performed basic SQL operations:
+  - SELECT
+  - UPDATE
+  - DELETE
+- Focused on table structure, constraints, and relationships
+
+---
+
+### 🔹 Assignment 2: Advanced SQL Queries & Procedures
+- Used JOINs to combine multiple tables
+- Applied filtering using WHERE conditions
+- Performed aggregate functions (SUM, COUNT, AVG)
+- Created and executed Stored Procedures
+- Solved business-related query problems
+
+---
+
+## 🛠️ Tools Used
+- MySQL
+- SQL (Structured Query Language)
+
+---
+
+## 📊 Key Skills Gained
+- Database design and structure
+- Data manipulation and querying
+- Writing efficient SQL queries
+- Understanding real-world data scenarios
+
+---
+
+## 📁 Files Included
+- SQL scripts for both assignments
+- Sample queries and outputs
+
+---
+
+## 🚀 Conclusion
+
+This project helps in building a strong foundation in SQL and database management, which is essential for roles like Data Analyst and Database Administrator.
+
+---
+
+⭐ Feel free to explore and use this project for learning purposes.
